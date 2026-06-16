@@ -8,13 +8,13 @@
   "server": {
     "ip": "Lettucekkkk.aternos.me",
     "port": 58511,
-    "version": "1.26.23",
+    "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": -40,
     "z": 0
   },
   "utils": {
